@@ -1,0 +1,17 @@
+print("         C             CCCCCCC           CCCCCCCC");
+print("       C   C          C      C         C");
+print("      C     C         C     C          C");
+print("     C       C        C    C           C");
+print("     C       C        C   C              C");
+print("     C       C        C  C                 C");
+print("     CCCCCCCCC        C C                     C");
+print("     C       C        CC                         C");
+print("     C       C        CC                            C");
+print("     C       C        C C                            C");
+print("     C       C        C  C                          C");
+print("     C       C        C   C                        C");
+print("     C       C        C    C                      C");
+print("     C       C        C     C                   C");
+print("     C       C        C     C                  C");
+print("     C       C        C     C                 C");
+print("     C       C        CCCCCCC                C");
