@@ -18,10 +18,13 @@ def arcR(t,x,y,l,tn,h):
 		t.rt(tn)
 
 def sheld(t):
+	t.goto(100,-400)
 	t.pendown()
+	t.rt(180)
 	t.begin_fill()
 	tcolor = "#ff0000";t.color(tcolor)
-	arcR(t,x,y,4,29,90)
+	arcR(t,x,y,300,40,90)
+	t.end_fill()
 	
 if __name__ == "__main__":
 	x = -400; y = 0
