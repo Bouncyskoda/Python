@@ -6,7 +6,7 @@ ip = "10.183.3.40"
 
 mc = Minecraft.create(ip, 4711)
 
-mc.postToChat("cwc joined the game")
+mc.postToChat("secret-account joined the game")
                                                  
 
 
