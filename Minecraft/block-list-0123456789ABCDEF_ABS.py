@@ -6,11 +6,8 @@ from time import sleep
 
 def init():
     #ip = "192.168.7.84"
-<<<<<<< HEAD
     ip = "10.183"
-=======
-    ip = "10.183.3.40"
->>>>>>> 103657a9ceca41376a41295a1c446d6aa4144979
+    
     mc = Minecraft.create(ip, 4711)
     #mc.setting("world_immutable",True)
     mc.postToChat("Everybody knows how the story goes fairytales are lieing to me everytime I try you just run and hide")

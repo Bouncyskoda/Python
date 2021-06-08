@@ -3,7 +3,7 @@
 from mcpi.minecraft import Minecraft
 from mcpi import block
 
-ip = "127.0.0.1"
+ip = "10.183."
 mc = Minecraft.create(ip, 4711)
 mc.player.setPos(0,0,0)
 mc.setBlocks(-128,-3,-128,128,64,128,0)

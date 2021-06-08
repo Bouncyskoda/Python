@@ -2,7 +2,7 @@ from mcpi.minecraft import Minecraft
 from mcpi import block	  
 
 
-ip = "10.183.0.23"
+ip = "10.183"
 
 mc = Minecraft.create(ip, 4711)
 

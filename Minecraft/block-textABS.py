@@ -2,11 +2,11 @@ from mcpi.minecraft import Minecraft
 from mcpi import block	  
 
 
-ip = "10.183.3.40"
+ip = "10.183."
 
 mc = Minecraft.create(ip, 4711)
 
-mc.postToChat("cwc joined the game")
+mc.postToChat("")
                                                  
 
 
