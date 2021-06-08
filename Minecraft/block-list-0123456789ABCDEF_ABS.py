@@ -6,7 +6,7 @@ from time import sleep
 
 def init():
     #ip = "192.168.7.84"
-    ip = "127.0.0.1"
+    ip = "10.183"
     mc = Minecraft.create(ip, 4711)
     #mc.setting("world_immutable",True)
     
